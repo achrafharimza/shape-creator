@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(42, 47, 47);
+}
+.zone1 {
+  border: 6px solid #a50044;
+  background-color: rgb(137, 131, 131);
+  justify-items: center;
+  display: grid;
+}
+canvas {
+  background-color: white;
+
+  border: 6px solid #a50044;
+}
+#container {
+  align-items: center;
+  display: flex;
+}
+h1 {
+  text-align: center;
+}
+.cr {
+  margin-right: auto;
+  color: #a50044;
+}
